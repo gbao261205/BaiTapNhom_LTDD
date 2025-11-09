@@ -3759,9 +3759,6 @@ id bounceEnd
 id bounceStart
 id buttonLogin
 id buttonPanel
-id buttonRegister
-id buttonSendOtp
-id buttonVerify
 id cache_measures
 id callMeasure
 id cancel_button
@@ -3834,9 +3831,7 @@ id easeInOut
 id easeOut
 id east
 id edge
-id editConfirmPassword
 id editEmail
-id editOtp
 id editPassword
 id edit_query
 id edit_text_id
@@ -3912,7 +3907,6 @@ id linear
 id listMode
 id list_item
 id m3_side_sheet
-id main
 id marquee
 id masked
 id match_constraint
@@ -4156,11 +4150,8 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
-id tvDescription
 id tvForgotPassword
-id tvLogin
 id tvRegister
-id tvResendOtp
 id tvTitle
 id unchecked
 id uniform
@@ -4304,11 +4295,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_forgot_password
 layout activity_login
-layout activity_main
-layout activity_otp
-layout activity_register
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
